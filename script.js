@@ -36,3 +36,16 @@ console.log(numberString03.length)
 
 let numberString04 = "TENCOLOGIA E INOVAÇÃO"
 console.log(numberString04.length)
+
+// Verificar o último trecho da frase
+let lastfrase = "A MAIOR TECNOLOGIA"
+console.log(lastfrase.lastIndexOf("TECNOLOGIA"))
+
+let lastfrase02 = "HARDWARE FAZ O COMPUTADOR"
+console.log(lastfrase02.lastIndexOf("COMPUTADOR"))
+
+let lastfrase03 = "FIAP A MELHOR FACULDADE"
+console.log(lastfrase03.lastIndexOf("FACULDADE"))
+
+let lastfrase04 = "TENCOLOGIA E INOVAÇÃO"
+console.log(lastfrase04.lastIndexOf("INOVAÇÃO"))
