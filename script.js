@@ -49,3 +49,10 @@ console.log(lastfrase03.lastIndexOf("FACULDADE"))
 
 let lastfrase04 = "TENCOLOGIA E INOVAÇÃO"
 console.log(lastfrase04.lastIndexOf("INOVAÇÃO"))
+
+// Informações na tela
+document.write("LOJA DE INFORMÁTICA")
+document.write("O MELHOR MOUSE POR R$22,00")
+document.write("TECLADO QUE TRAS O MELHOR CONFORTO POR R$50,00")
+document.write("CADEIRA GAMER TOP DE LINHA R$1.300,00")
+document.write("UTILIZE O MELHOR MOUSE PAD POR R$ 15,00")
